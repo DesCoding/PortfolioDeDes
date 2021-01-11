@@ -1,0 +1,25 @@
+/* Formating columns to center pics and add space around them) */
+.column {
+    float: center;
+    width: 50%;
+    padding: 5px;
+}
+  
+  /* Clear floats after image containers */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+} 
+  /* formating container for columns to adjust size of pics on the page  */
+.container {
+    float: center;
+    width: 50%;
+    padding: 5px;
+  }
+  
+@media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+}
