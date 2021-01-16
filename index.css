@@ -1,11 +1,13 @@
-/*background formatting same for all html*/
-
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 }
 
+.bio {
+padding: 20px;
+font-family: "Gill Sans", sans-serif;
+}
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
@@ -33,6 +35,6 @@ header nav {
 .foot {
 	text-align: center;
 }
-.btn-primary {
+.fab fa-linkedin .fab fa-github {
 	background-color: purple;
 }
