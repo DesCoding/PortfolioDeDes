@@ -2,7 +2,7 @@
 .column {
     float: center;
     width: 50%;
-    padding: 5px;
+    padding: 1px;
 }
   
   /* Clear floats after image containers */
@@ -15,7 +15,7 @@
 .container {
     float: center;
     width: 50%;
-    padding: 5px;
+    padding: 1px;
   }
   
 @media screen and (max-width: 500px) {
