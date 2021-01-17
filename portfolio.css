@@ -1,8 +1,9 @@
 /* Formating columns to center pics and add space around them) */
 .column {
-    float: center;
-    width: auto;
-    padding: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  padding: 1px;
 }
   
   /* Clear floats after image containers */
@@ -18,10 +19,9 @@
     padding: 25px;
   }
   
-
   .card {
     background-color: rgb(140, 194, 196);
-    margin: auto;
+    margin: 3%;
   }
 
   .btn {

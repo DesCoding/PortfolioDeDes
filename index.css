@@ -5,7 +5,7 @@ body {
 }
 
 .jumbotron {
-	position: absolute;
+	position: fixed;
 	left: 50%!important;
 	z-index: 10;
 	color: rgb(15, 13, 13);
@@ -20,8 +20,7 @@ body {
 .icon{
 	position: relative;
 	color: rgb(117, 101, 172);
-	font-size: 5em;
-	
+	font-size: 3em;
 }
 
 @keyframes gradient {
@@ -36,15 +35,9 @@ body {
 	}
 }
 
-header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	font-size: 20px;
-}
-
-.nav-link {
-	text-align: right
+@media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
 }
 
