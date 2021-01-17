@@ -10,17 +10,18 @@ body {
 	z-index: 10;
 	color: rgb(15, 13, 13);
 	background-color: rgb(140, 194, 196);
-	text-align: center;
+	text-align: justify;
 	top: 50%!important;
 	transform: translate(-50%, -50%);
 	width: fit-content;
 	padding: 50px
 }
 
-.bio {
-padding: 20px;
-font-family: "Gill Sans", sans-serif;
+.icon{
+	position: relative;
+	text-align: center;
 }
+
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
