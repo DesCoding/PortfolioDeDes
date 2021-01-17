@@ -1,34 +1,27 @@
-/* Formating columns to center pics and add space around them) */
-.column {
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
-  padding: 1px;
-}
-  
-  /* Clear floats after image containers */
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-} 
-  /* formating container for columns to adjust size of pics on the page  */
 .container {
-    float: center;
-    width: 100%;
-    padding: 25px;
-  }
-  
-  .card {
-    background-color: rgb(140, 194, 196);
-    margin: 3%;
-  }
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding: 40px;
+}
 
-  .btn {
-    background-color: rgb(128, 23, 128);
-  }
+.column,.card,.row {
+  background-color: rgb(140, 194, 196);
+  text-align: center;
+  width: fit-content;
+  padding: 10px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.btn {
+  background-color: rgb(128, 23, 128);
+}
+
 @media screen and (max-width: 500px) {
-    .column {
-      width: 100%;
-    }
+  .column {
+    width: 100%;
+  }
 }
