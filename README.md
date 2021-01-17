@@ -1,6 +1,6 @@
 # PortfolioDeDes
 
-This web responsive portfolio has been created to share some details about me and examples of my coding work so far.  Hope you like it!
+This web responsive portfolio has been created to share details about me and my coding experience so far.
 
 # Technologies Used
 
@@ -9,8 +9,6 @@ This web responsive portfolio has been created to share some details about me an
    * Screencastify
    * Bootstrap
 
-
-
 # Deployed
 
 Repo:  https://github.com/DesCoding/PortfolioDeDes
@@ -18,6 +16,10 @@ Repo:  https://github.com/DesCoding/PortfolioDeDes
 
 Site:  https://descoding.github.io/PortfolioDeDes/index.html
 
+
+# Demo
+
+![Demo]()
 
 ![Demo](https://github.com/DesCoding/PortfolioDeDes/blob/main/Assets/DemoAbout.png)
 
@@ -42,3 +44,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Contact Info
+
+d.stout31@yahoo.com
