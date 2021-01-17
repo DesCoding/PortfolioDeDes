@@ -19,9 +19,11 @@ Site:  https://descoding.github.io/PortfolioDeDes/index.html
 
 # Demo
 
-![Demo]()
+![Demo](Assets/Portfolio.gif)
 
-![Demo](https://github.com/DesCoding/PortfolioDeDes/blob/main/Assets/DemoAbout.png)
+![Demo](Assets/DemoAbout.png)
+
+![Demo](Assets/DemoPortfolio.png)
 
 # MIT License
 
