@@ -1,7 +1,7 @@
 /* Formating columns to center pics and add space around them) */
 .column {
     float: center;
-    width: 50%;
+    width: auto;
     padding: 1px;
 }
   
@@ -21,6 +21,7 @@
 
   .card {
     background-color: rgb(140, 194, 196);
+    margin: auto;
   }
 
   .btn {
