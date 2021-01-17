@@ -4,6 +4,19 @@ body {
 	animation: gradient 15s ease infinite;
 }
 
+.jumbotron {
+	position: absolute;
+	left: 50%!important;
+	z-index: 10;
+	color: rgb(15, 13, 13);
+	background-color: rgb(140, 194, 196);
+	text-align: center;
+	top: 50%!important;
+	transform: translate(-50%, -50%);
+	width: fit-content;
+	padding: 50px
+}
+
 .bio {
 padding: 20px;
 font-family: "Gill Sans", sans-serif;
