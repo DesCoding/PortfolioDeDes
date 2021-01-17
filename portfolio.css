@@ -14,10 +14,18 @@
   /* formating container for columns to adjust size of pics on the page  */
 .container {
     float: center;
-    width: 50%;
-    padding: 1px;
+    width: 100%;
+    padding: 25px;
   }
   
+
+  .card {
+    background-color: rgb(140, 194, 196);
+  }
+
+  .btn {
+    background-color: rgb(128, 23, 128);
+  }
 @media screen and (max-width: 500px) {
     .column {
       width: 100%;
