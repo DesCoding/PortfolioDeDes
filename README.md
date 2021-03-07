@@ -14,7 +14,7 @@ This web responsive portfolio has been created to share details about me and my 
 Repo:  https://github.com/DesCoding/PortfolioDeDes
 
 
-Site:  https://descoding.github.io/PortfolioDeDes/index.html
+Site:  https://descoding.github.io/PortfolioDeDes/
 
 
 # Demo
